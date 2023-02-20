@@ -1,5 +1,5 @@
 # Conhecendo o PostgreSQL
-Mini Projeto com o intuito de aprender um pouco mais sobre o Bando de dados relacional PostgreSQL
+Conhecendo a linguagem SQL e a ferramenta PostgreSQL
 
 **Desenvolvido por** *Arthur Felipe MS*
 
