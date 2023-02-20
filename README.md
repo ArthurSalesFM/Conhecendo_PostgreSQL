@@ -1,4 +1,4 @@
-# Mini Projeto no PostgreSQL
+# Conhecendo o PostgreSQL
 Mini Projeto com o intuito de aprender um pouco mais sobre o Bando de dados relacional PostgreSQL
 
 **Desenvolvido por** *Arthur Felipe MS*
